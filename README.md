@@ -1,16 +1,14 @@
-# movies_app
+# TopMovies
 
-A new Flutter project.
+Este projeto Flutter se trata de um aplicativo que lista os
+filmes que estão em alta no momento, contendo uma imagem, o 
+título, a sinopse e a nota de avaliação de cada um. 
 
-## Getting Started
+A obtenção dos dados se deu através da API The Movie Database
+(TMDB), que é grátis e de código aberto.
 
-This project is a starting point for a Flutter application.
+## Telas
+![Tela inicial](assets/media/tela1.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+![Tela de detalhes de um filme](assets/media/tela2.PNG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
